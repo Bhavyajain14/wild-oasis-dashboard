@@ -2,6 +2,8 @@
 
 An internal application for hotel staff to handle bookings, cabins and guest check-ins. Built while learning React and Supabase.
 
+The guest-facing booking website for the same hotel is in [wild-oasis-website](https://github.com/Bhavyajain14/wild-oasis-website).
+
 ## What This Project Does
 
 - Dashboard displaying daily statistics including sales, occupancy rates, and stay durations.
@@ -24,8 +26,8 @@ An internal application for hotel staff to handle bookings, cabins and guest che
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bhavyajain14/the-wild-oasis.git
-   cd the-wild-oasis
+   git clone https://github.com/Bhavyajain14/wild-oasis-dashboard.git
+   cd wild-oasis-dashboard
    ```
 
 2. Install dependencies:
