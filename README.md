@@ -1,6 +1,6 @@
 # The Wild Oasis: Staff Management Dashboard
 
-An internal management application built for hotel staff to manage bookings, cabins, and guest check-ins efficiently.
+An internal application for hotel staff to handle bookings, cabins and guest check-ins. Built while learning React and Supabase.
 
 ## What This Project Does
 
@@ -33,7 +33,7 @@ An internal management application built for hotel staff to manage bookings, cab
    npm install
    ```
 
-3. Configure environment variables in a `.env` file:
+3. Copy `.env.example` to `.env` and fill in your Supabase project values:
    ```env
    VITE_SUPABASE_URL=your_supabase_url
    VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
